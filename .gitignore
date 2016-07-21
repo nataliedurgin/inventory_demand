@@ -101,3 +101,5 @@ target/
 .env/*
 
 .profile
+
+.DS_Store
